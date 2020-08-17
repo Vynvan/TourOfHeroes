@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, NgModule, FormsModule } from '@angular/core';
 
 @Component({
   selector: 'app-root',
